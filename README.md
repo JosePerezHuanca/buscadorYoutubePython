@@ -16,6 +16,6 @@ Esta es una interfaz que se conecta a la api youtube  V3 para realizar búsqueda
 - ejecutar el script: `python main.py`
 - Opcionalmente, compilar un ejecutable ya sea con nuitca o pyinstaller.
 
-## Descripción breve de la interfaz
+## Descripción de la interfaz
 
 El programa consta de un cuadro de texto para escribir una búsqueda, el botón buscar, una lista de resultados (aproximadamente 50) y un botón para reproducir por cada item que se seleccione en la lista que habre el reproductor PotPlayer con el video.
